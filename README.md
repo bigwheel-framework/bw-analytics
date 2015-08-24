@@ -8,12 +8,13 @@ bigwheel google analytics plugin
 
 [![NPM](https://nodei.co/npm/bw-analytics.png)](https://www.npmjs.com/package/bw-analytics)
 
-```
+```javascript
 var framework = require('bigwheel');
 var analytics = require('bw-analytics');
 
 analytics('UA',framework);
 analytics('UA','DOMAIN',framework);
+```
 
 ## License
 
