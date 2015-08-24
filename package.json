@@ -1,0 +1,33 @@
+{
+  "name": "bw-analytics",
+  "version": "1.0.0",
+  "description": "bigwheel google analytics plugin",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Nick Poisson",
+    "email": "nick@jam3.com",
+    "url": "https://github.com/njam3"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "bigwheel,",
+    "google",
+    "analytics,",
+    "ga,",
+    "plugin,",
+    "analytics"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/njam3/bw-analytics.git"
+  },
+  "homepage": "https://github.com/njam3/bw-analytics",
+  "bugs": {
+    "url": "https://github.com/njam3/bw-analytics/issues"
+  }
+}
