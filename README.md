@@ -18,4 +18,4 @@ analytics('UA','DOMAIN',framework);
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/njam3/bw-analytics/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/bigwheel-framework/bw-analytics/blob/master/LICENSE.md) for details.

@@ -24,10 +24,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/njam3/bw-analytics.git"
+    "url": "git://github.com/bigwheel-framework/bw-analytics.git"
   },
-  "homepage": "https://github.com/njam3/bw-analytics",
+  "homepage": "https://github.com/bigwheel-framework/bw-analytics",
   "bugs": {
-    "url": "https://github.com/njam3/bw-analytics/issues"
+    "url": "https://github.com/bigwheel-framework/bw-analytics/issues"
   }
 }
