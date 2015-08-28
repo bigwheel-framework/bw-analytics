@@ -18,4 +18,5 @@ module.exports = function(ua,domain,bw) {
   } else {
     console.log('This version of GA is only available in the browser.');
   }
+  return bw;
 };
