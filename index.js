@@ -13,9 +13,7 @@ module.exports = function(ua,domain,bw) {
     ga('create',ua,domain || 'auto');
     ga('send','pageview');
     bw.on('route',function(data) {
-      var page = window.location.hash.replace('#!','');
-      if (!page) page = '/';
-      ga('send', 'pageview', page);
+      ga('send', 'pageview', data.path || '/');
     });
   } else {
     console.log('This version of GA is only available in the browser.');
