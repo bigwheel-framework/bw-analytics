@@ -1,7 +1,7 @@
 module.exports = function(ua,domain,bw) {
   if (window && typeof ua === 'string') {
     if (typeof domain !== 'string') {
-      router = domain;
+      bw = domain;
       domain = undefined;
     }
   	if (!window.ga) {
